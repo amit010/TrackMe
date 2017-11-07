@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/status"
+        android:icon="@drawable/ic_near_me"
+        android:orderInCategory="100"
+        android:title="Status"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_notifications"
+        android:orderInCategory="100"
+        android:title="Notifications"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/search_bar1"
+        android:icon="@drawable/ic_search"
+        android:orderInCategory="100"
+        android:title="Notifications"
+        app:showAsAction="always"/>
+
+  <!--  <item
+        android:id="@+id/mail"
+        android:orderInCategory="100"
+        android:title="mail"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/camera"
+        android:orderInCategory="100"
+        android:title="camera"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/web_search"
+        android:orderInCategory="100"
+        android:title="web_search"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/help"
+        android:orderInCategory="100"
+        android:title="help"
+        app:showAsAction="never"/> -->
+
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0488d1</color>
+    <color name="colorPrimaryDark">#041dbd</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorGray">#c2c2c2</color>
+
+    <color name="overflowMenuBg">#ede2b2</color>
+    <color name="grey_800">#838493</color>
+    <color name="contextual_background">#5ce2be</color>
+    <color name="contextualText">#e18383</color>
+
+    <color name="textColorPrimary">#ffffff</color>
+
+</resources>
